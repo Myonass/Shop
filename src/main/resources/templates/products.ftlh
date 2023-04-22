@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Buy And Sell</title>
+    <title>ZalupaShop</title>
 </head>
 <body>
-<h1>Huito</h1><hr>
+<h1>ZalupaShop | <a href="/login">Войти</a> </h1><hr>
 <h4>AllProducts</h4>
 <form action="/" method="get">
     Поиск по названию объявления: <input type="text" name="title"><br>
