@@ -1,1 +1,0 @@
-Poshel Nahuyi

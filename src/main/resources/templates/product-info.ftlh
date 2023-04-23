@@ -14,9 +14,5 @@
 <b>Цена:</b>${product.price}<br>
 <b>Город:</b>${product.city}<br>
 <b>Автор:</b>${product.author}<br>
-<hr>
-<form action="/product/delete/${product.id}" method="post">
-    <input type="submit" value="Удалить товар"/>
-</form>
 </body>
 </html>
